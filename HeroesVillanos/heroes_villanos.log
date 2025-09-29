@@ -1,0 +1,15 @@
+2025-09-29 22:27:48,560 - INFO - Héroe creado: 1 - superman fernandez (Puntuación: 55.8)
+2025-09-29 22:28:06,882 - INFO - Villano creado: 2 - duende verde (Puntuación: 50.75)
+2025-09-29 22:28:23,957 - INFO - Búsqueda heroe por nombre=superman, encontrados 1
+2025-09-29 22:28:33,745 - INFO - Emparejamiento: 1 - superman fernandez (Puntuación: 55.8) vs 2 - duende verde (Puntuación: 50.75) combate: Equilibrado
+2025-09-29 22:28:51,311 - INFO - villano borrado: 2 - duende verde (Puntuación: 50.75)
+2025-09-29 22:31:59,987 - INFO - Búsqueda heroe por edad=10, encontrados 0
+2025-09-29 22:32:22,221 - INFO - Villano creado: 1 - marta marta (Puntuación: 68.0)
+2025-09-29 22:32:40,620 - INFO - Búsqueda villano por nombre=marta, encontrados 1
+2025-09-29 22:48:37,955 - ERROR - Error en main: time data '3789' does not match format '%d/%m/%Y'
+2025-09-29 22:49:00,551 - INFO - Héroe creado: 1 - marta fronton (Puntuación: 62.8)
+2025-09-29 22:49:22,510 - INFO - Villano creado: 2 - marta fronton sainero (Puntuación: 93.25)
+2025-09-29 22:54:43,347 - INFO - Búsqueda heroe por edad=hola, encontrados 0
+2025-09-29 23:04:48,503 - ERROR - Error en main: time data '21/09' does not match format '%d/%m/%Y'
+2025-09-29 23:08:13,843 - INFO - Héroe creado: 1 - marta fronton (Puntuación: 35.2)
+2025-09-29 23:08:24,340 - INFO - heroe borrado: 1 - marta fronton (Puntuación: 35.2)
